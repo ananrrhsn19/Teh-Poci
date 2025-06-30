@@ -1,0 +1,9 @@
+LOGIN ADMIN
+
+Username : admin1
+pw : admin123
+
+login pelanggan 
+
+username : user1
+pw : user123
